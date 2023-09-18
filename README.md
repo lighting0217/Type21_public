@@ -93,10 +93,8 @@ Firebase offers a suite of services that are integrated into the `Type21` applic
 
 1. **Authentication**:
     - Manage user sign-up, login, and session using Firebase Authentication.
-    - Supports multiple authentication methods including email/password
-    <!---
-    Google sign-in.
-    --->
+    - Supports multiple authentication methods including email/password and Google sign-in.
+
 
 2. **Real-time Database & Cloud Firestore**:
     - Store and retrieve user preferences, history, and other specific data.
