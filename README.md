@@ -300,7 +300,7 @@ const openWeatherAPIKey = "YOUR_OPENWEATHER_API_KEY";
 - Apart from API keys, you also need to integrate this project with Firebase. Follow these steps to configure Firebase for your project:
 - Go to the Firebase Console and sign in or create a new Firebase account if needed.
 - Click "Add project" to create a new project or select an existing project.
-- In your Firebase project's settings (Project Settings), accessible by clicking the gear icon in the top right corner, navigate to the "General" tab.
+- In your Firebase project settings (Project Settings), accessible by clicking the gear icon in the top right corner, navigate to the "General" tab.
 - Scroll down to the "Your apps" section, and click "Add app."
 - Select Android as the platform and follow the setup instructions.
 - You will receive a "google-services.json" file from Firebase. Copy this file and paste it into the "android/app" folder of your project.
